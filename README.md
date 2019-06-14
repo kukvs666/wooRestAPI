@@ -1,8 +1,8 @@
 ###  wooRestAPI
 
-Pour utiliser ce programme il faut commencer par clone le repo.
+Pour utiliser ce programme il faut avoir installer le plugin woocommerce, et avoir récupérer la clé client, la clé secrète et l'adresse `http` de votre site wordpress. Ensuite vous pouvez clone le repo et suivre les instruction ci-desous.
 
-Ensuite il faut installer `prompt`:
+Il faut installer `prompt`:
 
 ```bash
 $ npm i prompt
